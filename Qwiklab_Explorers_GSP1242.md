@@ -10,9 +10,9 @@
 - ### Copy & Run in Cloud Shell terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Manage%20and%20Secure%20Distributed%20Services%20with%20GKE%20Managed%20Service%20Mesh/techcps1.sh
-sudo chmod +x techcps1.sh
-./techcps1.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Manage-and-Secure-Distributed-Services-with-GKE-Managed-Service-Mesh-GSP1242/refs/heads/main/qwiklab_explorers_gsp1242_task1.sh
+sudo chmod +x qwiklab_explorers_gsp1242_task1.sh
+./qwiklab_explorers_gsp1242_task1.sh
 ```
 ---
 
@@ -24,9 +24,9 @@ watch -g "gcloud container fleet mesh describe | grep 'code: REVISION_READY'"
 ---
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Manage%20and%20Secure%20Distributed%20Services%20with%20GKE%20Managed%20Service%20Mesh/techcps2.sh
-sudo chmod +x techcps2.sh
-./techcps2.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Manage-and-Secure-Distributed-Services-with-GKE-Managed-Service-Mesh-GSP1242/refs/heads/main/qwiklab_explorers_gsp1242_task2.sh
+sudo chmod +x qwiklab_explorers_gsp1242_task2.sh
+./qwiklab_explorers_gsp1242_task2.sh
 ```
 
 ---
