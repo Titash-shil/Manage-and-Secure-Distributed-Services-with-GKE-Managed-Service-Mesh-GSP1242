@@ -1,4 +1,4 @@
-#  Manage and Secure Distributed Services with GKE Managed Service Mesh || [GSP943](https://www.cloudskillsboost.google/focuses/89751?parent=catalog) ||
+#  Manage and Secure Distributed Services with GKE Managed Service Mesh || [GSP1242](https://www.cloudskillsboost.google/focuses/89751?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
